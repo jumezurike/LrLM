@@ -9,13 +9,13 @@ Incorporating keyless encryption methods, which are resilient against quantum co
 
 By leveraging this approach, we aim to bridge the gap in AI representation for low-resource languages, offering a pathway to more inclusive and culturally relevant AI applications. This work invites collaboration to harness Igbo’s linguistic richness for advanced AI development while ensuring security and privacy in the post-quantum era.
 
-###The three main deliverables:
+### The three main deliverables:
 1. Build a Low resource foundational language model using neural network deep learning techniques
 2. Train the models using ML (supervise, unsupervised, and reinforce learning with human feedback (RLHF).
 3. Generate sentences and compare them with known datasets for semantic reason. 
 
 
-#Neural Network:
+## Neural Network:
 
 As a native speaker of Igbo. We  would build a giant matrix of words. This is to help you understand how words form from Igbo romanized alphabets. These are considered foundational vocabulary in my native language. 
 Let's start with the native romanized alphabets: 
@@ -64,7 +64,7 @@ This is how to build a giant neural network from which the words will only be ac
 
 Congo-kwa languages exhibit this order of formation. Their meanings are in those words. 
 
-#Implementation steps:
+## Implementation steps:
 Application of the proposed algorithm:
 
 Classification
