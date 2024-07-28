@@ -27,6 +27,8 @@ Heavy Syllables: These can end in a long vowel sound, such as /aː/, /iː/, or /
 Extra-Heavy Syllables: These syllables end in a long vowel and a consonant, or in a short vowel followed by two consonants. Examples include patterns like VVC or VCC.
 These structural elements are important in phonology and can significantly influence the pronunciation and rhythm of languages across different linguistic contexts.
 
+![MLAI](https://github.com/jumezurike/LrLM/blob/main/LAI%20(2).png)
+
 ## Neural Network:
 
 As a native speaker of Igbo. We  would build a giant matrix of words. This is to help you understand how words form from Igbo romanized alphabets. These are considered foundational vocabulary in my native language. 
