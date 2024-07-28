@@ -1,5 +1,5 @@
 # LrLM
-Low Resource Language Model using neural network base Deep learning Technique
+Low Resource Language Model using neural network based Deep learning Technique
 
 This study explores the unique morphological structure of the Igbo language, focusing on the invariant nature of root words and their semantic enhancement through affixation. In Igbo, root words remain constant while their meanings are modulated by prefixes and suffixes, forming meaningful combinations that adhere to vowel-consonant-vowel patterns. Examples such as "Ngugu" (lungs) and phrases like "Gu-pu ya" (remove it) and "Go-zie" (bless) illustrate how roots and morphemes interact to convey different meanings.
 
@@ -12,8 +12,20 @@ By leveraging this approach, we aim to bridge the gap in AI representation for l
 ### The three main deliverables:
 1. Build a Low resource foundational language model using neural network deep learning techniques
 2. Train the models using ML (supervise, unsupervised, and reinforce learning with human feedback (RLHF).
-3. Generate sentences and compare them with known datasets for semantic reason. 
+3. Generate sentences and compare them with known datasets for semantic reason.
 
+## Language Structure:
+In many languages, syllable structures and consonant clusters vary widely and can be complex. Here’s a general overview of how different syllable and consonant cluster patterns might be structured:
+
+### Consonant Clusters:
+In various languages, monosyllabic words can feature initial consonant clusters with up to two consonants. Typically, the first consonant in the cluster can be a stop, nasal, or fricative, while the second might be a glide. At the end of a word, there can be clusters where a fricative is followed by a stop, or a nasal is followed by a homorganic stop or fricative.
+
+### Syllables Ending in a Consonant:
+Syllables can be categorized based on their ending sounds and overall structure into different types:
+Light Syllables: These often end in a short vowel sound. For example, a syllable may end in a vowel such as /ə/, /ɪ/, or /ʊ/.
+Heavy Syllables: These can end in a long vowel sound, such as /aː/, /iː/, or /uː/, or in a short vowel followed by a consonant, forming patterns like VV or VC.
+Extra-Heavy Syllables: These syllables end in a long vowel and a consonant, or in a short vowel followed by two consonants. Examples include patterns like VVC or VCC.
+These structural elements are important in phonology and can significantly influence the pronunciation and rhythm of languages across different linguistic contexts.
 
 ## Neural Network:
 
