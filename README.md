@@ -1,7 +1,7 @@
 # LrLM
 Low Resource Language Model using neural network based Deep learning Technique
 
-This study explores the unique morphological structure of the Igbo language, focusing on the invariant nature of root words and their semantic enhancement through affixation. In Igbo, root words remain constant while their meanings are modulated by prefixes and suffixes, forming meaningful combinations that adhere to vowel-consonant-vowel patterns. Examples such as "Ngugu" (lungs) and phrases like "Gu-pu ya" (remove it) and "Go-zie" (bless) illustrate how roots and morphemes interact to convey different meanings.
+This study explores the unique morphological structure of the Igbo, Yoruba and other language of the same family, focusing on the invariant nature of root words and their semantic enhancement through affixation. In Igbo, root words remain constant while their meanings are modulated by prefixes and suffixes, forming meaningful combinations that adhere to vowel-consonant-vowel patterns. Examples such as "Ngugu" (lungs) and phrases like "Gu-pu ya" (remove it) and "Go-zie" (bless) illustrate how roots and morphemes interact to convey different meanings.
 
 Traditional language models, often based on subject-verb-object structures typical of English, fall short in accurately representing Igbo. Therefore, we propose a deep learning strategy using neural networks where vowels act as activators to capture these morphological patterns. This model leverages a shift-left approach and security-by-design principles to ensure robust performance and secure data handling.
 
